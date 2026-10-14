@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@andrei-leads/core':
-        specifier: ^0.3.0
-        version: 0.3.0(react@19.3.0)
+        specifier: ^0.4.0
+        version: 0.4.0(react@19.3.0)
       class-variance-authority:
         specifier: ^0.7.1
         version: 0.7.1
@@ -67,8 +67,8 @@ packages:
     resolution: {integrity: sha512-U4+70Pc5ZS9osnCBCE5Jha/ciHM+Yp+CNMNC/7HvYbNRk1Ldd+f7qO65W5qfhu/TCv+/ozljlXXe9Nj8419DMA==}
     engines: {node: '>=10'}
 
-  '@andrei-leads/core@0.3.0':
-    resolution: {integrity: sha512-cbK34UuoFd1KgJOMtZHPO9/4trLgRNeqiWAHXzmxjYY75NZQC+VgOExcwfvTJguTEBxGdpA8lFhjptdTiyWA0w==, tarball: https://npm.pkg.github.com/download/@andrei-leads/core/0.3.0/87528f30f507802cdbdcd38ef433b533eca2f75a}
+  '@andrei-leads/core@0.4.0':
+    resolution: {integrity: sha512-gZFkCVrLJ1HV7XLQLXmGGvKuLlDijylW1fvqf34m6lndIwSstyhBavA+drBynb4pmjXRPrWKSBm4UBMlA5yFZQ==, tarball: https://npm.pkg.github.com/download/@andrei-leads/core/0.4.0/0f5f80b970531383b59f6f0b09d520b4e8645288}
     peerDependencies:
       react: ^19.0.0
 
@@ -2791,7 +2791,7 @@ snapshots:
 
   '@alloc/quick-lru@5.3.0': {}
 
-  '@andrei-leads/core@0.3.0(react@19.3.0)':
+  '@andrei-leads/core@0.4.0(react@19.3.0)':
     dependencies:
       react: 19.3.0
       zod: 4.6.7
