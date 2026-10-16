@@ -158,6 +158,7 @@ export default defineSiteConfig({
     { pregunta: "¿Dais factura?", respuesta: "Siempre, con IVA." },
   ],
   marca: { colorPrimario: "#9a3412" },
+  analitica: { vercel: true },
   seo: {
     titulo: "Reparación de persianas y cristales en Mislata y Valencia",
     descripcion: "Persianas, cristales rotos, puertas de garaje y cerraduras de aluminio. Vamos hoy en Valencia, Mislata y Xirivella. Precio antes de empezar.",
